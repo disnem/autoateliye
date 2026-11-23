@@ -2,7 +2,9 @@
 
 Статический сайт-презентация АвтоАтелье в Москве.
 
-Сайт публикуется через GitHub Pages с помощью workflow в `.github/workflows/pages.yml`.
+## Публикация
+
+Сайт публикуется через GitHub Pages. Workflow находится в `.github/workflows/pages.yml`.
 
 После включения GitHub Pages с источником **GitHub Actions** сайт будет доступен по адресу:
 
